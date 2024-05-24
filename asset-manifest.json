@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Random-GIF/static/css/main.6fc30c9d.css",
+    "main.js": "/Random-GIF/static/js/main.694dff59.js",
+    "static/media/bg4.jpg": "/Random-GIF/static/media/bg4.5bd07960c044cc3e10de.jpg",
+    "index.html": "/Random-GIF/index.html",
+    "main.6fc30c9d.css.map": "/Random-GIF/static/css/main.6fc30c9d.css.map",
+    "main.694dff59.js.map": "/Random-GIF/static/js/main.694dff59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc30c9d.css",
+    "static/js/main.694dff59.js"
+  ]
+}
