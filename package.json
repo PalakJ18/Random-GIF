@@ -2,7 +2,7 @@
   "name": "random-gif",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PalakJ18.github.io/Random-GIF",
+  "homepage": "https://PalakJ18.github.io/Random_GIF",
   "dependencies": {
     "axios": "^1.6.2",
     "react": "^18.2.0",
